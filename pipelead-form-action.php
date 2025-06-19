@@ -2,11 +2,11 @@
 /**
  * Plugin Name: Pipelead Form Action
  * Description: Adiciona uma nova ação de submissão ao formulário do Elementor que dispara um webhook.
- * Version: 0.0.1
+ * Version: 0.0.2
  * Author: Pipelead
  * Text Domain: pipelead-form-action
  *
- * Requires Plugins: elementor, elementor-pro
+ * Requires Plugins: elementor, elementor-pro | pro-elements
  * Elementor tested up to: 3.21.0
  * Elementor Pro tested up to: 3.21.0
  */
